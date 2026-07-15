@@ -21,4 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Some of the variables
+  
+* Some of the https method
+
+* concepts of resources 
+
+  
