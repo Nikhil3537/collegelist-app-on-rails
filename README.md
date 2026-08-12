@@ -1,30 +1,36 @@
-# README
+# 🎓 College List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple **Ruby on Rails web application** for managing and displaying college information.
 
-Things you may want to cover:
+## ✨ Features
 
-* Ruby version
+* Add college details
+* View list of colleges
+* Edit college information
+* Delete colleges
+* Simple and user-friendly interface
 
-* System dependencies
+## 🛠️ Tech Stack
 
-* Configuration
+* Ruby
+* Ruby on Rails
+* HTML/CSS
+* SQLite 
 
-* Database creation
+## 🚀 Run Locally
 
-* Database initialization
+```bash
+git clone https://github.com/YOUR_USERNAME/college-list-app.git
+cd college-list-app
+bundle install
+rails db:migrate
+rails server
+```
 
-* How to run the test suite
+Open **http://localhost:3000** in your browser.
 
-* Services (job queues, cache servers, search engines, etc.)
+## 👨‍💻 Developer
 
-* Deployment instructions
+**Nikhil N S**
 
-* Some of the variables
-  
-* Some of the https method
-
-* concepts of resources 
-
-  
+GitHub: https://github.com/Nikhil3537
